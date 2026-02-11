@@ -3,12 +3,5 @@
   "country": "dk",
   "appFolders": [],
   "testFolders": [],
-  "artifact": "bcartifacts/sandbox/23.0.12034.13450/dk/closest",
-  "appDependencyProbingPaths": [
-    {
-      "repo": ".",
-      "release_status": "include",
-      "projects": "W1"
-    }
-  ]
+  "artifact": "bcartifacts/sandbox/23.0.12034.13450/dk/closest"
 }
